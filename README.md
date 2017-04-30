@@ -38,7 +38,7 @@ Run shell mongodb:
 `docker exec -it <CONTAINER_ID> <command>
 
 ```
-$ docker exec -it <CONTAINER_ID> mongo`
+$ docker exec -it <CONTAINER_ID> mongo
 ```
 
 Or
